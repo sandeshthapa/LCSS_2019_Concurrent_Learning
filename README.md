@@ -5,6 +5,7 @@ This is the matlab/simulink code for 2019 CDC paper below
 
 ## Cite the paper as: 
 
+## LaTEX
 @article{thapa2019cooperative,
   title={Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag Force Estimation},
   author={Thapa, Sandesh and Self, Ryan V and Kamalapurkar, Rushikesh and Bai, He},
@@ -12,6 +13,12 @@ This is the matlab/simulink code for 2019 CDC paper below
   year={2019},
   publisher={IEEE}
 }
+
+## APA
+Thapa, S., Self, R. V., Kamalapurkar, R., & Bai, H. (2019). 
+Cooperative Manipulation of an Unknown Payload With Concurrent Mass and Drag Force Estimation. 
+IEEE Control Systems Letters, 3(4), 907-912.
+
 
 
 
