@@ -39,7 +39,7 @@ Run_force_Att_Controller.m
 ## Results 
 
 ### Constant Velocity 
-![](https://https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/VelAgentsB.pdf)
+![](https://https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/VelAgentsB)
 
 ### Time Varying Velocity 
 
