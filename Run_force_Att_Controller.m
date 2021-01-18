@@ -115,7 +115,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/VelLoadB.png
+print -dpng  Plots_LCSS/VelLoadB.png 
 hold on 
 % % % % 
 figure
@@ -129,8 +129,8 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/VelAgentsB.png
-% print -dpdf Figures/VelAgents.png
+print -dpng Plots_LCSS/VelAgentsB.png ; 
+% print -dpng Figures/VelAgents.png ; 
 hold on
 
 figure
@@ -144,8 +144,8 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/C1TildeB.png
-% print -dpdf Figures/C1Tilde.png
+print -dpng Plots_LCSS/C1TildeB.png ; 
+% print -dpng ;  Figures/C1Tilde.png ; 
 hold on 
 
 figure
@@ -159,8 +159,8 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/ThetacTildeB.png
-% print Figures/ThetacTilde.png
+print -dpng Plots_LCSS/ThetacTildeB.png ; 
+% print Figures/ThetacTilde.png ; 
 hold on 
 % % % 
 figure
@@ -174,8 +174,8 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/f1dTildeB.png
-% print Figures/f1dTilde.png
+print -dpng Plots_LCSS/f1dTildeB.png ; 
+% print Figures/f1dTilde.png ; 
 hold on 
 % 
 figure
@@ -189,8 +189,8 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/XYPosB.png
-% print Figures/f1dTilde.png
+print -dpng Plots_LCSS/XYPosB.png ; 
+% print Figures/f1dTilde.png ; 
 hold on 
 
 figure
@@ -204,7 +204,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/ContactForceB.png
+print -dpng Plots_LCSS/ContactForceB.png ; 
 hold on 
 
 %% Plots for angles 
@@ -219,7 +219,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/RollAngleB.png
+print -dpng Plots_LCSS/RollAngleB.png ; 
 hold on 
 % 
 figure
@@ -233,7 +233,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/PitchAngleB.png
+print -dpng Plots_LCSS/PitchAngleB.png ; 
 hold on 
 
 %% Animation 
