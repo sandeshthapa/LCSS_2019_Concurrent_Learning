@@ -20,8 +20,6 @@ Cooperative Manipulation of an Unknown Payload With Concurrent Mass and Drag For
 IEEE Control Systems Letters, 3(4), 907-912.
 
 
-
-
 ## Running the code 
 Please run the following code. 
 
@@ -30,6 +28,7 @@ mkdir LCSS_2019
 cd ~/LCSS_2019
 mkdir Plots_LCSS 
 cd ..
+git clone git@github.com:sandeshthapa/LCSS_2019_Concurrent_Learning.git
 Run_force_Att_Controller.m 
 ```
    Please follow the instructions inside the script and run each sub-script once. 
