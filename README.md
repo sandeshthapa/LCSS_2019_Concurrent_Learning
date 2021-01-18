@@ -49,13 +49,25 @@ Run_force_Att_Controller.m
 ### Constant Velocity 
 
 
+#### Linear Velocity 
+![](https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/VelLoadBCaseA.png)
+
+#### Drag forces Estimation 
+![](https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/ThetacTildeBCaseA.png)
+
+#### Contact force acting on the payload 
+![](https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/f1dTildeBCaseA.png)
+
+
+
+
 ### Time Varying Velocity 
 
 
 #### Linear Velocity 
 ![](https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/VelLoadB.png)
 
-#### Dragg forces Estimation 
+#### Drag forces Estimation 
 ![](https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/ThetacTildeB.png)
 
 #### Contact force acting on the payload 
