@@ -43,10 +43,7 @@ Run_force_Att_Controller.m
 
 ### Time Varying Velocity 
 
-#### Go to 
-````
-Force_Att_Controller_Separated.slx
-```
+#### Go to Force_Att_Controller_Separated.slx
 #### Load -subsystem in simulink 
 #### Inside "PayloadForceController" block 
 ### change the cases to Constant 
