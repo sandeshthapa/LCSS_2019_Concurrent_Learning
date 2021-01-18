@@ -42,7 +42,7 @@ Run_force_Att_Controller.m
 
 
 ### Time Varying Velocity 
-![](https://https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/VelAgentsB.png)
+![](https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/VelLoadB.png)
 
 
 
