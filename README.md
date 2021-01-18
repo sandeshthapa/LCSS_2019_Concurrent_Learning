@@ -1,7 +1,9 @@
 ## Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag Force Estimation
 
 
-This is the matlab/simulink code for 2019 CDC paper below: 
+This is the matlab/simulink code for 2019 CDC paper below
+
+## Cite the paper as: 
 
 @article{thapa2019cooperative,
   title={Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag Force Estimation},
@@ -12,7 +14,17 @@ This is the matlab/simulink code for 2019 CDC paper below:
 }
 
 
+
 ## Running the code 
 Please run the following code. 
-1. Run Run_force_Att_Controller.m 
+
+```
+Run_force_Att_Controller.m 
+```
    Please follow the instructions inside the script and run each sub-script once. 
+
+## Results 
+
+### Contact
+thapasandesh1@gmail.com
+
