@@ -115,7 +115,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/VelLoadB.pdf
+print -dpdf Plots_LCSS/VelLoadB.eps
 hold on 
 % % % % 
 figure
@@ -129,7 +129,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/VelAgentsB.pdf
+print -dpdf Plots_LCSS/VelAgentsB.eps
 % print -dpdf Figures/VelAgents.eps
 hold on
 
@@ -144,7 +144,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/C1TildeB.pdf
+print -dpdf Plots_LCSS/C1TildeB.eps
 % print -dpdf Figures/C1Tilde.eps
 hold on 
 
@@ -159,7 +159,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/ThetacTildeB.pdf
+print -dpdf Plots_LCSS/ThetacTildeB.eps
 % print Figures/ThetacTilde.eps
 hold on 
 % % % 
@@ -174,7 +174,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/f1dTildeB.pdf
+print -dpdf Plots_LCSS/f1dTildeB.eps
 % print Figures/f1dTilde.eps
 hold on 
 % 
@@ -189,7 +189,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/XYPosB.pdf
+print -dpdf Plots_LCSS/XYPosB.eps
 % print Figures/f1dTilde.eps
 hold on 
 
@@ -204,7 +204,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/ContactForceB.pdf
+print -dpdf Plots_LCSS/ContactForceB.eps
 hold on 
 
 %% Plots for angles 
@@ -219,7 +219,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/RollAngleB.pdf
+print -dpdf Plots_LCSS/RollAngleB.eps
 hold on 
 % 
 figure
@@ -233,7 +233,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpdf Plots_LCSS/PitchAngleB.pdf
+print -dpdf Plots_LCSS/PitchAngleB.eps
 hold on 
 
 %% Animation 
