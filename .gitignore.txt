@@ -1,0 +1,9 @@
+.idea/
+
+# Artifacts from clion
+*/cmake-build-debug/*
+
+#Artifacts from vscode
+.vscode/*
+
+/slprj/*
