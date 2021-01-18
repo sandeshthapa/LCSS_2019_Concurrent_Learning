@@ -115,7 +115,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpng  Plots_LCSS/VelLoadB.png 
+print -dpng  Plots_LCSS/VelLoadBCaseA.png 
 hold on 
 % % % % 
 figure
@@ -129,8 +129,8 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpng Plots_LCSS/VelAgentsB.png ; 
-% print -dpng Figures/VelAgents.png ; 
+print -dpng Plots_LCSS/VelAgentsBCaseA.png ; 
+% print -dpng Figures/VelAgentsCaseA.png ; 
 hold on
 
 figure
@@ -144,8 +144,8 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpng Plots_LCSS/C1TildeB.png ; 
-% print -dpng ;  Figures/C1Tilde.png ; 
+print -dpng Plots_LCSS/C1TildeBCaseA.png ; 
+% print -dpng ;  Figures/C1TildeCaseA.png ; 
 hold on 
 
 figure
@@ -159,8 +159,8 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpng Plots_LCSS/ThetacTildeB.png ; 
-% print Figures/ThetacTilde.png ; 
+print -dpng Plots_LCSS/ThetacTildeBCaseA.png ; 
+% print Figures/ThetacTildeCaseA.png ; 
 hold on 
 % % % 
 figure
@@ -174,8 +174,8 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpng Plots_LCSS/f1dTildeB.png ; 
-% print Figures/f1dTilde.png ; 
+print -dpng Plots_LCSS/f1dTildeBCaseA.png ; 
+% print Figures/f1dTildeCaseA.png ; 
 hold on 
 % 
 figure
@@ -189,8 +189,8 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpng Plots_LCSS/XYPosB.png ; 
-% print Figures/f1dTilde.png ; 
+print -dpng Plots_LCSS/XYPosBCaseA.png ; 
+% print Figures/f1dTildeCaseA.png ; 
 hold on 
 
 figure
@@ -204,7 +204,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpng Plots_LCSS/ContactForceB.png ; 
+print -dpng Plots_LCSS/ContactForceBCaseA.png ; 
 hold on 
 
 %% Plots for angles 
@@ -219,7 +219,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpng Plots_LCSS/RollAngleB.png ; 
+print -dpng Plots_LCSS/RollAngleBCaseA.png ; 
 hold on 
 % 
 figure
@@ -233,7 +233,7 @@ set(gcf, 'PaperUnits', 'inches');
 set(gcf, 'PaperSize', [7.5 2.5]);
 set(gcf, 'PaperPosition', [0 0 7.5 2.5]);
 set(gca,'LooseInset',get(gca,'TightInset'));
-print -dpng Plots_LCSS/PitchAngleB.png ; 
+print -dpng Plots_LCSS/PitchAngleBCaseA.png ; 
 hold on 
 
 %% Animation 
