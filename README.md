@@ -19,6 +19,10 @@ This is the matlab/simulink code for 2019 CDC paper below
 Please run the following code. 
 
 ```
+mkdir LCSS_2019
+cd ~/LCSS_2019
+mkdir Plots_LCSS 
+cd ..
 Run_force_Att_Controller.m 
 ```
    Please follow the instructions inside the script and run each sub-script once. 
