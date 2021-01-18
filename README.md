@@ -39,7 +39,7 @@ Run_force_Att_Controller.m
 ## Results 
 
 ### Constant Velocity 
-![](https://github.com/sandeshthapa/Adaptive_Sliding_Mode_Control_of_Aerial_Manipulator/blob/master/pos_history.jpg)
+![](https://https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/VelAgentsB.pdf)
 
 ### Time Varying Velocity 
 
