@@ -48,12 +48,14 @@ Run_force_Att_Controller.m
 Force_Att_Controller_Separated.slx
 ```
 #### Load -subsystem in simulink 
-#### Inside "PayloadForceController" block change the cases to Constant and Time varying velocities (Case are provded but commented out)
+#### Inside "PayloadForceController" block 
+### change the cases to Constant 
+###  and Time varying velocities (Case are provded but commented out)
 
 #### Linear Velocity 
 ![](https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/VelLoadB.png)
 
-#### Draf forces Estimation 
+#### Dragg forces Estimation 
 ![](https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/ThetacTildeB.png)
 
 #### Contact force acting on the payload 
