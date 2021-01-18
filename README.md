@@ -23,6 +23,9 @@ IEEE Control Systems Letters, 3(4), 907-912.
 ## Running the code 
 Please run the following code. 
 
+
+### Requirements
+- MATLAB/Simulink 2020 a 
 ```
 mkdir LCSS_2019
 cd ~/LCSS_2019
@@ -34,6 +37,13 @@ Run_force_Att_Controller.m
    Please follow the instructions inside the script and run each sub-script once. 
 
 ## Results 
+
+### Constant Velocity 
+![](https://github.com/sandeshthapa/Adaptive_Sliding_Mode_Control_of_Aerial_Manipulator/blob/master/pos_history.jpg)
+
+### Time Varying Velocity 
+
+
 
 ### Contact
 thapasandesh1@gmail.com
